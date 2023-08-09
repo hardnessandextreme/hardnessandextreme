@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 # Hola 👋 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Actualmente estudio Desarrollo de Aplicaciones Web en la universidad y también de forma autodidacta. Soy un desarrollador Back-end en formación y voy adquiriendo experiencia y conocimiento en la práctica. Para compartir lo que hago, conservar un vivo recuerdo de mis inicios, mantener mis metas claras y saber hacia dónde quiero llegar.
+Actualmente, me encuentro inmerso en el estudio de Desarrollo de Aplicaciones Web, tanto en el marco académico universitario como a través de mis propios esfuerzos autodidactas. Me perfilo como un aprendiz en la disciplina del Back-end, avanzando gradualmente y acumulando experiencia y conocimiento en la práctica directa. La razón detrás de la creación de esta cuenta es la intención de compartir mis labores, conservar una memoria vívida de mis comienzos, mantener mis objetivos definidos y tener claro hacia dónde dirijo mis pasos.
 
-## Actualmente aprendiendo
+## Proceso de aprendizaje
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
