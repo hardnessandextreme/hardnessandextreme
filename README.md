@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 # Hola 👋
 
 Actualmente, me encuentro inmerso en el estudio de Desarrollo de Aplicaciones Web, tanto en el marco académico universitario como a través de mis propios esfuerzos autodidactas. Me perfilo como un aprendiz en la ruta del Back-end, avanzando gradualmente y acumulando experiencia y conocimiento en la práctica directa. La razón detrás de la creación de esta cuenta es la intención de compartir mis labores, conservar una memoria vívida de mis comienzos, mantener mis objetivos definidos y tener claro hacia dónde dirijo mis pasos.
+-->
 
 ## Proceso de aprendizaje
 
