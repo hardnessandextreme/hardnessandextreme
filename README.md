@@ -4,4 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardnessandextreme&theme=dark&hide_border=true&locale=es)
 
-![Tro](https://github-profile-trophy.vercel.app/?username=hardnessandextreme&theme=dark_lover&no-frame=true)
+[https://github-profile-trophy.vercel.app/?username=hardnessandextreme&theme=dark_lover&no-frame=true]: #
